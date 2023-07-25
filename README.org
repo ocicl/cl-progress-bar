@@ -1,0 +1,10 @@
+* cl-progress-bar
+
+Progress bars, just like in quicklisp!
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/sirherrbatka/cl-progress-bar.git   |
+| commit  | 09067ec  |
+| systems | cl-progress-bar |
+|---------+-------------------------------------------|
+
